@@ -1,0 +1,16 @@
+{
+  "name": "sevens-airdrop-raffle",
+  "version": "0.1.0",
+  "author": "3-Sevens <3-7@thesevensofficial.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fast-csv": "^4.3.6",
+    "seedrandom": "^3.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "^16.9.1",
+    "@types/seedrandom": "^3.0.1",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}
