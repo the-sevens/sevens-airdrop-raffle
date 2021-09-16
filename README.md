@@ -47,3 +47,24 @@ Bitcoin Block:
 
 - Height: `700610`
 - Hash: `0000000000000000000397ac86aa3e40460d66fda094179344bc457ab9c4b07c`
+
+### Round 2
+
+Winner count: `275`
+
+Ticket list file:
+
+- Path: `./data/round_2/tickets.csv`
+- SHA256: `2e65f0805f79b3f9959b57bed249eaf455b1567e184335d6f55ecf2fde2b68ce`
+- SHA512: `2c1c0df17c62364f7079741d16894baec1e9adfd64d6a6732ce4b9c3ee3f467045b97e7282c6548cef491811b647763102052cf04d77790fd322678150589316`
+
+Token list file:
+
+- Path: `./data/round_2/tokens.csv`
+- SHA256: `1f57ea9f6c4f4929480f95938ec2a43822141d839f503dc21fda3a5c1a4e7312`
+- SHA512: `0a3486d7a48513868bc2703eb25c2909de00148f60beb118363418c5806b137cbc236b12fd62732e9d6a2d04c1307cb341865fe0a5a9e0bcaf8460807f4158fb`
+
+Bitcoin Block:
+
+- Height: `700890`
+- Hash: _not yet mined_
