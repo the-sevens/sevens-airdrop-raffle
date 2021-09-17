@@ -67,4 +67,4 @@ Token list file:
 Bitcoin Block:
 
 - Height: `700890`
-- Hash: _not yet mined_
+- Hash: `00000000000000000005fa80c80fad8030c640742e73dbbfdefa3f1e1fbb2fe3`
